@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: pocware
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Big Data Product Architecture Proof of Concept
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://kbalde.github.io/pocware
 
 # Jekyll configuration
 
@@ -36,26 +36,23 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Kindi BALDE
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
+  email: kindi.balde@gmail.com
   disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  twitter: KindiBALDE
+  github: KBALDE
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram:
   flickr:
-  tumblr: mademistakes
+  tumblr:
   pinterest:
   weibo:
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
-
-theme: jekyll-theme-time-machine
+    plus: 
+    analytics:
+    verify: 
+    ad-client:
+    ad-slot:
+  bing-verify:
